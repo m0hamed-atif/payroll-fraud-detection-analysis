@@ -95,8 +95,8 @@ The **Power BI Dashboard** provides clear visibility into payroll activity and h
 ---
 
 ## Project Structure
-'''
-Payroll-Fraud-Detection-Analysis
+
+'''Payroll-Fraud-Detection-Analysis
 │
 ├── Dashboard
 │ └── Payroll Fraud Detection Dashboard.pbix
@@ -110,8 +110,7 @@ Payroll-Fraud-Detection-Analysis
 ├── Images
 │ └── dashboard.png
 │
-└── README.md
-'''
+└── README.md'''
 ---
 
 ## Business Impact
